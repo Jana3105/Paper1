@@ -1,0 +1,9 @@
+Feature,Value
+Source,"UCI Machine Learning Repository (Fanaee-T, 2013)"
+Observations,"17,379 observations"
+Period,2011–2012
+Original Features,17 (calculated from DataFrame)
+Encoded Features,61 (after One-Hot Encoding)
+Target Variable,"cnt (Bike Rentals, range: 1–977)"
+Missing Values,0 missing values
+Train/Test Split,"80/20 (13,903 / 3,476)"

@@ -1,0 +1,4 @@
+Model Pair,Wilcoxon W,Wilcoxon p-value,t-Test t-stat,t-Test p-value
+OLS vs Ridge,7.0,0.5000,-0.2672640207805348,0.8025
+OLS vs Lasso,7.0,0.5000,-0.1276283580622741,0.9046
+OLS vs ElasticNet,7.0,0.5000,-0.18303609102971982,0.8637
